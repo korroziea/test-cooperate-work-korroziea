@@ -3,5 +3,6 @@ public class Main {
         System.out.println("No, You should change this string!");
         System.out.println("Job is done!");
         System.out.println("New string!");
+        int sum = 2 + 3;
     }
 }
